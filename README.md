@@ -88,4 +88,4 @@ At-risk students can be easily identified using attendance and result analysis.
 **Conclusion**
 
 This project demonstrates the use of Power BI for educational data analysis, focusing on clarity, interactivity, and actionable insights.
-It highlights skills in data visualization, DAX, and analytical thinking, making it suitable for academic submission, internships, and entry-level data roles.
+It highlights skills in data visualization, DAX, and analytical thinking.
